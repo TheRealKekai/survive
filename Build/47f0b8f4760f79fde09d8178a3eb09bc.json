@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FPS Survival Game",
+"dataUrl": "74356897281c21d31ff16f88828e92b1.unityweb",
+"wasmCodeUrl": "cb4c4c34a5d798c253a30b362e7b5b92.unityweb",
+"wasmFrameworkUrl": "ae12bbf050fa041add534b7dbdddba98.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
